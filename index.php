@@ -1,40 +1,8 @@
 <?php
 
-include('include/header.php');
+echo "Hello PHP SSL Authority",
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-include('include/footer.php');
 ?>
